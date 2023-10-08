@@ -1,4 +1,3 @@
-<div height="36" width="36">👋</div>
 <!-- Hi 👋 My name is Artem
 ======================
 
