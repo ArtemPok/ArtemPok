@@ -1,4 +1,4 @@
-[](https://tenor.com/ru/view/hi-hello-hey-gif-5749010)
+<div height="36" width="36">👋</div>
 <!-- Hi 👋 My name is Artem
 ======================
 
